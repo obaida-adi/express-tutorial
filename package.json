@@ -1,0 +1,12 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "practicing with backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bibo",
+  "license": "ISC"
+}
