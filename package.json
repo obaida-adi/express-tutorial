@@ -4,8 +4,8 @@
   "description": "practicing with backend",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "author": "bibo",
   "license": "ISC",
